@@ -26,7 +26,7 @@ Project: **App for recipes**
 * [Dart](https://www.youtube.com/watch?v=FLQ-Vhw1NYQ&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=3&ab_channel=NetNinja)
 * Tinkered with icon, image and text wedgets and their properties
 * [Buttons and icons](https://www.youtube.com/watch?v=ABmqtI7ec7E&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=9&ab_channel=NetNinja)
-
+* How can flutter make an app cross platform? Does the code get converted into soemthing else for the different platform?
 
 <!--
 * Links you used today (websites, videos, etc)
