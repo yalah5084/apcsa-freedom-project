@@ -24,7 +24,7 @@ Project: **App for recipes**
 * [Text](https://dartpad.dev/?) to tinker
 * [Set up](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&ab_channel=NetNinja)
 * [Dart](https://www.youtube.com/watch?v=FLQ-Vhw1NYQ&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=3&ab_channel=NetNinja)
-* 
+* Tinkered with icon, image and text wedgets and their properties
 
 
 <!--
