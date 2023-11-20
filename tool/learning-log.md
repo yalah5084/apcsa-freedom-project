@@ -35,3 +35,18 @@ Project: **App for recipes**
 * Questions you still have
 * What you're going to try next
 -->
+
+---
+
+11/13/23:
+
+Tool: **Swift**
+
+* [Swift documentation tutorial](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+* [SwiftUI tutorial](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+* Learned about VStack and deleted the first VStack --> the text and circle disappeared, why?
+* Add volleyball figure
+* Tried putting different spots but some of them wouldn't appear, maybe there's different casing and name
+*
+
+
