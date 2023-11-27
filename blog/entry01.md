@@ -46,7 +46,7 @@ A tool I considered was [Flutter](https://docs.flutter.dev/) because I liked the
 
 I’m currently in the defining the problem, researching the problem, and brainstorming possible solutions stages in the engineering design process.
 
-The three skills that I’m developing are consideration, how to read, and how to learn. To begin, I had to consider which tool would be the best fit for my project. The next step was to have a better understanding of and get familiar with Swfit through its official documentation. Afterward, I had to tinker with Swift using Xcode and follow the tutorials.
+The three skills that I’m developing are consideration, how to read, and how to learn. To begin, I had to consider which tool would be the best fit for my project. The next step was to have a better understanding and become familiar with Swfit through its official documentation. Afterward, I had to tinker with Swift by using Xcode and following a tutorial.
 
 [Next](entry02.md)
 
