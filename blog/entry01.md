@@ -42,7 +42,7 @@ struct ContentView: View {
 ```
 
 
-A tool I considered was [Flutter](https://docs.flutter.dev/) because I liked the idea of a cross-platform app. I watched a few YouTube videos about [buttons](https://www.youtube.com/watch?v=ABmqtI7ec7E&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=9&ab_channel=NetNinja), [icons](https://www.youtube.com/watch?v=ABmqtI7ec7E&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=9&ab_channel=NetNinja), [colors](https://www.youtube.com/watch?v=km2P_KQJyO0&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=6), and [fonts](https://www.youtube.com/watch?v=km2P_KQJyO0&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=6). I also used [DartPad](https://dartpad.dev/?) to tinker with the icon, image and text wedgets. and their properties.
+A tool I considered was [Flutter](https://docs.flutter.dev/) because I liked the idea of a cross-platform app. I watched a few YouTube videos about [buttons](https://www.youtube.com/watch?v=ABmqtI7ec7E&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=9&ab_channel=NetNinja), [icons](https://www.youtube.com/watch?v=ABmqtI7ec7E&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=9&ab_channel=NetNinja), [colors](https://www.youtube.com/watch?v=km2P_KQJyO0&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=6), and [fonts](https://www.youtube.com/watch?v=km2P_KQJyO0&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=6). I also used [DartPad](https://dartpad.dev/?) to tinker with the icon, image and text wedgets, and their properties.
 
 I’m currently in the defining the problem, researching the problem, and brainstorming possible solutions stages in the engineering design process.
 
