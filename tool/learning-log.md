@@ -7,7 +7,7 @@ Project: **App for recipes**
 10/28/23:
 * [Variables and constant](https://www.youtube.com/watch?v=xKf6iNilRYI&list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW&index=2&ab_channel=iOSAcademy)
 * [Types](https://www.youtube.com/watch?v=48v8FH46mQs&list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW&index=3&ab_channel=iOSAcademy)
-* [Funcstions and parameter](https://www.youtube.com/watch?v=fffG55Ei1Qc&list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW&index=4&ab_channel=iOSAcademy)
+* [Functions and parameter](https://www.youtube.com/watch?v=fffG55Ei1Qc&list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW&index=4&ab_channel=iOSAcademy)
 
 10/29/23:
 * [Classes and structs](https://www.youtube.com/watch?v=ys3dPSKssgk&list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW&index=5&ab_channel=iOSAcademy)
@@ -42,11 +42,11 @@ Project: **App for recipes**
 
 Tool: **Swift**
 
-* [Swift documentation tutorial](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+* [Swift documentation tutorial](https://www.swift.org/getting-started/swiftui/)
 * [SwiftUI tutorial](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
 * Learned about VStack and deleted the first VStack --> the text and circle disappeared, why?
 * Add volleyball figure
-* Tried putting different spots but some of them wouldn't appear, maybe there's different casing and name
-*
+* Tried putting different sports but some of them wouldn't appear, maybe there's different casing and name
+
 
 
