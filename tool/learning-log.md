@@ -38,7 +38,7 @@ Project: **App for recipes**
 
 ---
 
-11/13/23:
+11/20/23:
 
 Tool: **Swift**
 
@@ -49,4 +49,11 @@ Tool: **Swift**
 * Tried putting different sports but some of them wouldn't appear, maybe there's different casing and name
 
 
+---
 
+12/03/23:
+
+* `Spacer()` adds space. If you put multiple, the spaces will be divided equally
+* `withAnimation()` function to create a smoother transition between each activity. It can be customized with `.easeInOut(duration: 0.5)`
+* 
+*
