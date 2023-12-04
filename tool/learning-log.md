@@ -55,5 +55,5 @@ Tool: **Swift**
 
 * `Spacer()` adds space. If you put multiple, the spaces will be divided equally
 * `withAnimation()` function to create a smoother transition between each activity. It can be customized with `.easeInOut(duration: 0.5)`
-* 
+*  The description of the tutorial about adding `.transition(.slide)` and `.id(id)` was confusing because it didn't show an example of the code. I reread the previous paragraphs and it started to make more sense. I put them after the inner `VStack`. I also put it after the button and the button was also sliding with the circle and icon
 *
