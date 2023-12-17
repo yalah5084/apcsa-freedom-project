@@ -69,3 +69,34 @@ Tool: **Swift**
 * I paste the image inside and outside the `VStack` before the text "Turtle Rock" but it looked the same
 * I realized I don't have to paste the image in the `ContentView`, I can just put the file's name with parenthesis. So you can create the pieces separtely in a different file and put it all together in one file with just the name of the file.
 * I didn't why `offset(y: -130)` moves the image to the top and offset was familiar. I went back to my sep10 notes and the negative moves the image 130 pixels from the bottom. But this logic doesn't work with `offset: x` because a positive value moves the image to the right while a negative value moves it to the left.
+As I was google `offset` I found this [website](https://www.hackingwithswift.com/quick-start/swiftui/how-to-adjust-the-position-of-a-view-using-its-offset#:~:text=Important%3A%20Using%20offset()%20will,that%20wasn't%20your%20intention.) where I learend something new about `offset`. Any modifiers before `offset` will be affected and after modifiers after will not be affected
+* When you apply a modifier to a layout view like a stack, SwiftUI applies the modifier to all the elements contained in the group.
+
+from:
+```swift
+HStack {
+    Text("Lucy the cat")
+        .font(.subheadline)
+    Spacer()
+    Text("NYC")
+        .font(.subheadline)
+
+}
+```
+
+
+
+to:
+```swift
+HStack {
+    Text("Lucy the cat")
+
+    Spacer()
+
+    Text("NYC")
+
+}
+.font(.subheadline)
+.foregroundStyle(.secondary)
+```
+

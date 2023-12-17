@@ -9,40 +9,45 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-//        Image("Image")
-//            .clipShape(Circle())
-//            .overlay {
-//                Circle().stroke(.white, lineWidth: 4)
-//            }
-//            .shadow(radius: 7)
 
-            // ^^ Doesn't matter where I put it
+        VStack {
+            MapView()
+                .frame(height: 300)
 
-        VStack (alignment: .leading) {
-            // Image("Image")
-            //     .clipShape(Circle())
-            //     .overlay {
-            //         Circle().stroke(.white, lineWidth: 4)
-            //     }
-            //     .shadow(radius: 7)
+            CircleImage()
+                .offset(y: -130)
+                .offset(x: 50)
+                .padding(.bottom, -130)
 
-            // ^^ Doesn't matter where I put
+            VStack (alignment: .leading) {
 
-            Text("Turtle Rock")
-                .font(.title)
-            HStack {
-                Text("Joshua Tree National Park")
-                    .font(.subheadline)
-                Spacer()
-                Text("California")
-                    .font(.subheadline)
+                Text("Lucy")
+                    .font(.title)
+                HStack {
+                    Text("Lucy the cat")
+                        .font(.subheadline)
+                    Spacer()
+                    Text("NYC")
+                        .font(.subheadline)
+
+                }
+
 
             }
-
-
+            .padding()
         }
-        .padding()
 
+
+        // example of offset
+        HStack {
+            Text("Before offset()")
+                .background(.blue)
+                .offset(y: 15)
+
+            Text("After offset()")
+                .offset(y: 15)
+                .background(.blue)
+        }
     }
 }
 
