@@ -56,4 +56,16 @@ Tool: **Swift**
 * `Spacer()` adds space. If you put multiple, the spaces will be divided equally
 * `withAnimation()` function to create a smoother transition between each activity. It can be customized with `.easeInOut(duration: 0.5)`
 *  The description of the tutorial about adding `.transition(.slide)` and `.id(id)` was confusing because it didn't show an example of the code. I reread the previous paragraphs and it started to make more sense. I put them after the inner `VStack`. I also put it after the button and the button was also sliding with the circle and icon
-*
+
+---
+
+12/17/23:
+
+* Learned how to use the inspector to see what's available and customize things faster
+* `Spacer()` expands to make the containing view (whatever is in the view) use all the space in its parent view
+* The tutorial wasn't clear about how to add a new image file. OS I look at the tab in the tutorial where the image was open and it said `Assests`. I open my tabs on top and found assest. I downloaded a cat image, clicked on the plus sign at the button and pressed `Image Set`.
+* The tutorial was unclear about where to click to add a new file. It said to click on file but it didn't show where that was. I started to click things around the screen until I found a plus sign at the botttom left.
+* I wasn't sure why my image wasn't showing. I tried to drag the image but it didn't work. I thought maybe it was bebcause of the image's name. I checked the tutorial's image's name and what they put in `Image()`, and it was the same thing `turtlerock`. My image was called `Image` so I had to replace `turtlerock` with `Image`.
+* I paste the image inside and outside the `VStack` before the text "Turtle Rock" but it looked the same
+* I realized I don't have to paste the image in the `ContentView`, I can just put the file's name with parenthesis. So you can create the pieces separtely in a different file and put it all together in one file with just the name of the file.
+* I didn't why `offset(y: -130)` moves the image to the top and offset was familiar. I went back to my sep10 notes and the negative moves the image 130 pixels from the bottom. But this logic doesn't work with `offset: x` because a positive value moves the image to the right while a negative value moves it to the left.
