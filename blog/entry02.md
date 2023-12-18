@@ -80,7 +80,7 @@ HStack {
 ```
 ![image text, optional](../tool/img/offset.png)
 
-The last thing I learned with the tutorial helped me understand the first tutorial when I was struggling to add the modifiers `.transition(.slide)` and `.id(id)` to the inner `VStack`. When you apply a modifier to a layout view, such as a stack, SwiftUI applies the modifier to all the elements within the group. This makes me realize why the name of the activity and the circle with the icon slide together when the button is clicked, and it's because the name and the icon are all inside the `VStack` as a whole group. Additionally, I like how the tutorial uses this __idea/concept to refactor the code.
+The last thing I learned with the tutorial helped me understand the first tutorial when I was struggling to add the modifiers `.transition(.slide)` and `.id(id)` to the inner `VStack`. When you apply a modifier to a layout view, such as a stack, SwiftUI applies the modifier to all the elements within the group. This makes me realize why the name of the activity and the circle with the icon slide together when the button is clicked, and it's because the name and the icon are all inside the `VStack` as a whole group. Additionally, I like how the tutorial uses this concept to refactor the code.
 
 from:
 ```swift
@@ -118,7 +118,7 @@ The three skills that I’m developing are how to learn, how to read, and how to
 
 ### FP goal is for winter break
 * I want to follow the next [tutorial](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation) which is about building list and navigation.
-* I'm still not familiar with the syntax of Swift so I want to watch this [YouTube video](https://www.youtube.com/watch?v=8Xg7E9shq0U). I will watch the sections' variables, operator, if and else, and functions.
+* I'm still not familiar with the syntax of Swift so I want to watch this [YouTube video](https://www.youtube.com/watch?v=8Xg7E9shq0U). I will watch the sections' variables, operators, if and else, and functions.
 
 
 [Previous](entry01.md) | [Next](entry03.md)
