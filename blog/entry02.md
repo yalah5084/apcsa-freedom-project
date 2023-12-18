@@ -39,8 +39,8 @@ var body: some View {
                 id += 1
 
                 // causes an error
-                .transition(.slide)
-                .id(id)
+                // .transition(.slide)
+                // .id(id)
 
             }
         }
