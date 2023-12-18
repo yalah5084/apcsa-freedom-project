@@ -63,7 +63,7 @@ Tool: **Swift**
 
 * Learned how to use the inspector to see what's available and customize things faster
 * `Spacer()` expands to make the containing view (whatever is in the view) use all the space in its parent view
-* The tutorial wasn't clear about how to add a new image file. OS I look at the tab in the tutorial where the image was open and it said `Assests`. I open my tabs on top and found assest. I downloaded a cat image, clicked on the plus sign at the button and pressed `Image Set`.
+* The tutorial wasn't clear about how to add a new image file. OS I look at the tab in the tutorial where the image was open and it said `Assets`. I open my tabs on top and found assest. I downloaded a cat image, clicked on the plus sign at the bottom and pressed `Image Set`.
 * The tutorial was unclear about where to click to add a new file. It said to click on file but it didn't show where that was. I started to click things around the screen until I found a plus sign at the botttom left.
 * I wasn't sure why my image wasn't showing. I tried to drag the image but it didn't work. I thought maybe it was bebcause of the image's name. I checked the tutorial's image's name and what they put in `Image()`, and it was the same thing `turtlerock`. My image was called `Image` so I had to replace `turtlerock` with `Image`.
 * I paste the image inside and outside the `VStack` before the text "Turtle Rock" but it looked the same
@@ -99,4 +99,4 @@ HStack {
 .font(.subheadline)
 .foregroundStyle(.secondary)
 ```
-
+* [Swift documentation guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators)
