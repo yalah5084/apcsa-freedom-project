@@ -114,9 +114,9 @@ Button(action: {
 }) {
     Text("Tap me!")
         .font(.headline)
-        .foregroundColor(.white)
+        .foregroundColor(.purple)
         .padding()
-        .background(Color.blue)
+        .background(Color.black)
         .cornerRadius(10)
 }
 ```
