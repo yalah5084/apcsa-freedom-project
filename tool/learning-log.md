@@ -100,3 +100,11 @@ HStack {
 .foregroundStyle(.secondary)
 ```
 * [Swift documentation guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators)
+
+
+* Following the documentation guide to learn the basics = you don't have to declare the type of variable or constant, Swift will automatically infer it when you type in the value
+* To name a variable or constant to a Swift keyword, you surround the word with backticks
+* Type safety = specify the type of value according to the type
+* Type inference = in case you don't specific, Swift infers it
+* Tuples = groups various values and they don't have to be the same values: `let http404Error = (404, "Not Found")`
+* 
