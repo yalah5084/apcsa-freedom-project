@@ -108,4 +108,15 @@ HStack {
 * Type safety = specify the type of value according to the type
 * Type inference = in case you don't specific, Swift infers it
 * Tuples = groups various values and they don't have to be the same values: `let http404Error = (404, "Not Found")`
-*
+``` swift
+Button(action: {
+    print("Button tapped!")
+}) {
+    Text("Tap me!")
+        .font(.headline)
+        .foregroundColor(.white)
+        .padding()
+        .background(Color.blue)
+        .cornerRadius(10)
+}
+```
