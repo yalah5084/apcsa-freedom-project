@@ -150,3 +150,4 @@ Button(action: {
 * NavigationSplitView = sets up navigation from a list to its children
 * NavigationLink = transtition to a destination view.
 * As I followed the tutorial, it reminded me of Java in the sense that everything is organized in its own file (like Classes) and then calls each other
+* I understand the flow of this project and how each file is connected to each other. But the syntax is what keeps confusing me 
