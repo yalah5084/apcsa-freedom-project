@@ -120,3 +120,33 @@ Button(action: {
         .cornerRadius(10)
 }
 ```
+
+02/18
+* I followed the next tutorial about [building lists and navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation)
+* I was looking for the file the tutorial was aksing for, but I had to download the project files this while time
+* I google about `resizable()` since I wasn't sure what it did, even after commenting it out. Found [this](https://www.codecademy.com/resources/docs/swiftui/viewmodifier/resizable), this modifier method ahs two parameters
+* The canvas can only show one preview at a time, but you can create multiple previews to see how each of them behaves with diff data
+* You can name each previews
+
+```swift
+26 #Preview("Turtle Rock") {
+27    LandmarkRow(landmark: landmarks[0])
+28 }
+29
+30 #Preview("Salmon") {
+31    LandmarkRow(landmark: landmarks[1])
+32 }
+```
+* You can also group the previews
+
+```swift
+#Preview{
+    Group {
+        LandmarkRow(landmark: landmarks[0])
+        LandmarkRow(landmark: landmarks[1])
+    }
+}
+```
+* NavigationSplitView = sets up navigation from a list to its children
+* NavigationLink = transtition to a destination view.
+* As I followed the tutorial, it reminded me of Java in the sense that everything is organized in its own file (like Classes) and then calls each other
