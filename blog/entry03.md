@@ -17,8 +17,8 @@ Something I learned about the canvas is that it can only show one preview at a t
 32 }
 ```
 
-![image text, optional](../tool/img/turtle-rock.png)
-![image text, optional](../tool/img/salmon.png)
+![turtle rock](../tool/img/turtle-rock.png)
+![salmon](../tool/img/salmon.png)
 
 Additionally, you can group views together with a container called `Group`.
 
@@ -30,7 +30,7 @@ Additionally, you can group views together with a container called `Group`.
     }
 }
 ```
-![image text, optional](../tool/img/group.png)
+![group](../tool/img/group.png)
 
 Two other useful views that will come in handy for my freedom project are `NavigationSplitView` and `NavigationLink` because they can allow the user to select a recipe and take them to the detailed page about the recipe. The `NavigationSplitView` view sets up navigation from a list to its children, while the `NavigationLink` view helps transition to a destination view. So when one of the landmarks is clicked, it takes the user to another page about the information of the landmark.
 
@@ -53,8 +53,8 @@ struct LandmarkList: View {
     }
 }
 ```
-![image text, optional](../tool/img/list.png)
-![image text, optional](../tool/img/detail.png)
+![list](../tool/img/list.png)
+![detail](../tool/img/detail.png)
 
 
 I understand the flow of this project and how each file is connected to each other (similar to classes in Java), but the syntax of the new modifiers and views is confusing. However, this tutorial helped me gain a better sense of what I want my app to look like. I'm planning on doing the [Codecademy free course](https://www.codecademy.com/enrolled/courses/learn-swift) about Swift next because the lessons on Codecademy are straightforward. I'm planning on completing the next [tutorial](https://developer.apple.com/tutorials/swiftui/handling-user-input) as well, which will be helpful for the users to mark their favorite recipes.

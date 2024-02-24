@@ -78,7 +78,7 @@ HStack {
         .background(.blue)
 }
 ```
-![image text, optional](../tool/img/offset.png)
+![offset](../tool/img/offset.png)
 
 The last thing I learned with the tutorial helped me understand the first tutorial when I was struggling to add the modifiers `.transition(.slide)` and `.id(id)` to the inner `VStack`. When you apply a modifier to a layout view, such as a stack, SwiftUI applies the modifier to all the elements within the group. This makes me realize why the name of the activity and the circle with the icon slide together when the button is clicked, and it's because the name and the icon are all inside the `VStack` as a whole group. Additionally, I like how the tutorial uses this concept to refactor the code.
 
