@@ -151,3 +151,32 @@ Button(action: {
 * NavigationLink = transition to a destination view.
 * As I followed the tutorial, it reminded me of Java in the sense that everything is organized in its own file (like Classes) and then calls each other
 * I understand the flow of this project and how each file is connected to each other. But the syntax is what keeps confusing me
+
+03/03
+* string interpolation = to insert values into a string. Backlash `\` and then write the value inside the parenthesis.
+```swift
+var albums = 17
+print("Daniel Johnston made \(albums) studio albums.")
+> Daniel Johnston made 17 studio albums.
+```
+
+* ternary conditional operator = shortut of conditionals `A ? B : C`. It's very useful but overusing it makes it difficult to read
+    - A = condition to check for
+    - B = expression to use if the condition is true
+    - C = expression to use if the condition is false
+
+Instead of:
+```swift
+var orderSuccessfullyPlaced = false
+
+if orderSuccessfullyPlaced {
+  print("Your order was received.")
+} else {
+  print("Something went wrong.")
+}
+"
+
+ We can do
+ ```swift
+ orderSuccessfullyPlaced ? print("Your order was received.") : print("Something went wrong.")
+ ```
