@@ -152,6 +152,7 @@ Button(action: {
 * As I followed the tutorial, it reminded me of Java in the sense that everything is organized in its own file (like Classes) and then calls each other
 * I understand the flow of this project and how each file is connected to each other. But the syntax is what keeps confusing me
 
+
 03/03
 * string interpolation = to insert values into a string. Backlash `\` and then write the value inside the parenthesis.
 ```swift
@@ -176,7 +177,75 @@ if orderSuccessfullyPlaced {
 }
 "
 
- We can do
+ We can do:
  ```swift
  orderSuccessfullyPlaced ? print("Your order was received.") : print("Something went wrong.")
  ```
+
+3/17
+* swift statement = finds and matches a case to a given expression.
+
+Instead of:
+```swift
+var city = "Rome"
+
+if city == "Rapa Nui" {
+  print("Moai 🗿")
+} else if city == "New York" {
+  print("Statue of Liberty 🗽")
+} else if city == "Rome" {
+  print("Colosseum 🏛")
+} else {
+  print("A famous landmark is the Eiffel Tower!")
+}
+```
+
+We can do:
+```swift
+switch city {
+  case "Rapa Nui":
+    print("Moai 🗿")
+  case "New York":
+    print("Statue of Liberty 🗽")
+  case "Rome":
+    print("Colosseum 🏛")
+  default:
+    print("A famous landmark is the Eiffel Tower!")
+}
+```
+* Switch Statement: Interval Matching = match value to an expression that is within the range which is indicated with three dots `...` First and last values are included.
+
+```swift
+var year = 1943
+
+switch year {
+  case 1701...1800:
+    print("18th century")
+  case 1801...1900:
+    print("19th century")
+  case 1901...2000:
+    print("20th century")
+  case 2001...2100:
+    print("21st century")
+  default:
+    print("You're a time traveler!")
+}
+// Prints: 20th century
+```
+
+* Compound cases = multiple values in a single case
+```swift
+var country = "India"
+
+switch country {
+  case "USA", "Mexico", "Canada":
+    print("\(country) is in North America. 🌏")
+  case "South Africa", "Nigeria", "Kenya":
+    print("\(country) is in Africa. 🌍")
+  case "Bangladesh", "China", "India":
+    print("\(country) is in Asia. 🌏")
+  default:
+    print("This country is somewhere in the world!")
+}
+// Prints: India is in Asia. 🌏
+```
