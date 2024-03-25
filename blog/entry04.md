@@ -92,16 +92,13 @@ switch country {
 
 ### Minimum Viable Product
 
-To start the app, I first needed to set up a 
+The first that I needed to was to set up a GitHub repository for my team and me to work together through Xcdoe. To connect my GitHub account with Xcode, I followed a [tutotrial](https://medium.com/@adrian.creteanu/link-your-xcode-project-with-github-5d1aeb582b08) and to create a Mac SSH key, I followed this [tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). I managed to successfully set up the repsoitory and ran a test to make sure we were all able to commit, push, and pull.
 
+Furthermore, we organized our ideas of how we wanted our app to look using a wireframe. My next step is to create views of the recipes, referencing to one of the previous tutorials, and make them clickable, which takes the users to the full recipe.
 
+I’m currently in the research, planning, and creating a prototype stages of the problem-solving process in engineering design. The next step will be to continue researching about Swift and developing my MVP.
 
-
-
-I’m currently in the research stage and creating a prototype stage of the problem-solving process in engineering design. The next step will be to continue researching about Swift and building my MVP.
-
-The four skills that I’m developing are a growth mindset, how to learn, how to read, and how to google. At first, I wanted to give up on the tutorial because I couldn't find the file I needed, but then I realized later that the solution was to download the project's files. There's always a solution to the problem. Additionally, I followed another tutorial to learn about Swift, and when I wasn't sure what a modifier did, I googled it.
-
+The four skills that I’m developing are how to learn, how to Google, organization and leadership. I'm still learning about Swift with different tutorials and googling any questions I still have about it. As for the MVP, I took the initiative to set up the GitHub repository for my team to be able to collaborate effectively. Lastly, I worked with my teammates to organize our ideas for our recipe app.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
