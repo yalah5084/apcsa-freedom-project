@@ -59,7 +59,7 @@ struct LandmarkList: View {
 
 I understand the flow of this project and how each file is connected to each other (similar to classes in Java), but the syntax of the new modifiers and views is confusing. However, this tutorial helped me gain a better sense of what I want my app to look like. I'm planning on doing the [Codecademy free course](https://www.codecademy.com/enrolled/courses/learn-swift) about Swift next because the lessons on Codecademy are straightforward. I'm planning on completing the next [tutorial](https://developer.apple.com/tutorials/swiftui/handling-user-input) as well, which will be helpful for the users to mark their favorite recipes.
 
-I’m currently in the research stage of the problem-solving process in engineering design. The next step will be to continue researching Swift.
+I’m currently in the research stage of the problem-solving process in engineering design. The next step will be to continue researching about Swift.
 
 The four skills that I’m developing are a growth mindset, how to learn, how to read, and how to google. At first, I wanted to give up on the tutorial because I couldn't find the file I needed, but then I realized later that the solution was to download the project's files. There's always a solution to the problem. Additionally, I followed another tutorial to learn about Swift, and when I wasn't sure what a modifier did, I googled it.
 
