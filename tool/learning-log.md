@@ -182,8 +182,8 @@ if orderSuccessfullyPlaced {
  orderSuccessfullyPlaced ? print("Your order was received.") : print("Something went wrong.")
  ```
 
-3/17
-* swift statement = finds and matches a case to a given expression.
+4/2
+* swicth statement = finds and matches a case to a given expression.
 
 Instead of:
 ```swift
