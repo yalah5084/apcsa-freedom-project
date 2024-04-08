@@ -249,3 +249,34 @@ switch country {
 }
 // Prints: India is in Asia. 🌏
 ```
+
+4/7
+- Tinkered with the views (VStack and HStack) to see how I can lay out my app.
+- Tinkered with the images and to see how it can look for the app; I'm going to look for more features that images have
+- Looking back at the navigation links, it was confusing so I followed the Swuift tutorial again
+- Help Chanry with the "navbar" for the app; I'm going to look for a Swift tutorial for it
+_ Even though I can just use views to make the app, `List` might be a better option just because of the layout
+- How would it look if I combined views with list?
+
+
+```swift
+VStack {
+
+    Text("Hello")
+
+    HStack {
+        Text("I'm going horizontal")
+        Spacer()
+    }
+    .padding(6)
+
+    HStack {
+        Image("Test")
+
+        VStack {
+            Text("More text")
+            Text("Even more text")
+        }
+    }
+}
+```
