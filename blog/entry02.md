@@ -1,5 +1,5 @@
 # Entry 2
-##### 12/7/23
+##### 12/07/23
 
 I finished following a [tutorial](https://www.swift.org/getting-started/swiftui/) I found on Swift's official [documentation](https://www.swift.org/documentation/). From the tutorial, I learned about a SwiftUI view `Spacer()`, the `withAnimation()` function, and the two modifiers `id()` and `transition()`. `Spacer()` just adds space equally between two views. The `withAnimation()` function creates a smooth transition between each activity in the. It can be customized with `.easeInOut(duration: 1)` which is the amount of time it'll take for each activity to slide. Lastly, when the tutorial said to add `.transition(.slide)` and `.id(id)` to the inner `VStack`, I was confused because I didn't it didn't show me where. So, I put them in different places such as after the icon, after the header, and inside the button (which gave me an error), but none of them worked the same way as the tutorial. I kept rereading the tutorial to see if I could figure out what it meant by "add these two modifiers to the inner `VStack` until I accidentally pasted the modifiers in the right place.
 
