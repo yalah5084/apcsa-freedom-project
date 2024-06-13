@@ -14,8 +14,8 @@ For the project, my teammates [David](https://github.com/davidkevinl7792), [Hann
 
 ## Implications
 ##### PROS
-* New job opportunities to manage the app
 * People can potentially sell their recipes
+* New job opportunities to manage the app
 * Convenient when you don't have a physical cookbook
 * Inspire people to cook and even be creative in the kitchen
 * Connect with other people through food by sharing recipe ideas
