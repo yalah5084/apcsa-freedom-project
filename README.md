@@ -14,16 +14,16 @@ For the project, my teammates [David](https://github.com/davidkevinl7792), [Hann
 
 ## Implications
 ##### PROS
-* Quick and easy-to-find recipe ideas whenever you're unsure about what to cook
-* Convenient when you don't have a physical cookbook
-* Connect with other people through food by sharing recipe ideas
-* Inspire people to cook and even be creative in the kitchen
 * New job opportunities to manage the app
 * People can potentially sell their recipes
+* Convenient when you don't have a physical cookbook
+* Inspire people to cook and even be creative in the kitchen
+* Connect with other people through food by sharing recipe ideas
+* Quick and easy-to-find recipe ideas whenever you're unsure about what to cook
 ##### CONS
-* Rely too much on the app to the point of diminishing cooking skills or creativity in the kitchen
-* Inaccuracy in some recipes can lead to misinformation and disappointment in users
 * Competition with other recipe apps
+* Inaccuracy in some recipes can lead to misinformation and disappointment in users
+* Rely too much on the app to the point of diminishing cooking skills or creativity in the kitchen
 
 
 
