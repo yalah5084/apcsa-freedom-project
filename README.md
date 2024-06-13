@@ -1,22 +1,30 @@
 # APCSA Freedom Project
-by **X**
+by **Yala Huang**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for AP Computer Science A is a year-long project all about making anything using technology.
 
-For my project, I chose to independently study **X** in order to help me make **X**.
+For the project, my teammates [David](https://github.com/davidkevinl7792), [Hanna](https://github.com/hannal7626), [Chanry](https://github.com/chanryc9471) and I made a recipe app for user to explore different recipes ideas. I chose to independently study Swift and this blog will walk through my process of independently studying my tool.
 
 ## Links
 
-[Product]()
+[Product](beyondmvp.gif)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1fzJTYPV8W36z7rmppDt6pjyQiK0mtnq6svw637Mek8o/edit#slide=id.g2dfae03b56f_0_124)
 
 ## Implications
 ##### PROS
-* 
+* Quick and easy-to-find recipe ideas whenever you're unsure about what to cook
+* Convenient when you don't have a physical cookbook
+* Connect with other people through food by sharing recipe ideas
+* Inspire people to cook and even be creative in the kitchen
+* New job opportunities to manage the app
+* People can potentially sell their recipes
 ##### CONS
-* 
+* Rely too much on the app to the point of diminishing cooking skills or creativity in the kitchen
+* Inaccuracy in some recipes can lead to misinformation and disappointment in users
+* Competition with other recipe apps
+
 
 
 ## Blog
@@ -28,7 +36,3 @@ Below you will find my blog about how I made my project.
 * [Entry 4](blog/entry04.md)
 * [Entry 5](blog/entry05.md)
 * [Entry 6](blog/entry06.md)
-* [Entry 7](blog/entry07.md)
-* [Entry 8](blog/entry08.md)
-* [Entry 9](blog/entry09.md)
-* [Entry 10](blog/entry10.md)
