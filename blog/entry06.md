@@ -7,11 +7,11 @@ After the expo and delivering the [elevator pitch](https://docs.google.com/docum
 
 ### Takeaways from in-class presentation
 
-After the in-class [presentation](https://docs.google.com/presentation/d/1fzJTYPV8W36z7rmppDt6pjyQiK0mtnq6svw637Mek8o/edit#slide=id.p), we received feedback about making the transition from the recipe app to the auto-cutter smoother because our transition was confusing. People found it hard to follow with our transition from the software component to the hardware component as they didn't know how they were connected.
+After the in-class [presentation](https://docs.google.com/presentation/d/1fzJTYPV8W36z7rmppDt6pjyQiK0mtnq6svw637Mek8o/edit#slide=id.p), we received feedback about making the transition from the recipe app to the auto-cutter smoother because our transition was confusing. People found it hard to follow our transition from the software component to the hardware component as they didn't know how they were connected.
 
 ### Engineering Design Process and Skills
 
-Finally, we're in the last stage of the engineering design process which is communicating the results. There's still a feature we have to finish working on which is allowing the user to save their own recipe. Lastly, three skills I developed were collaboration, organization, and communication. My group and I communicated our ideas to create the final products and organized ourselves to present it in the expo and class. Throughout the entire project, a lot of collaboration was required to ensure to the efficiency of the product and presentations.
+Finally, we're in the last stage of the engineering design process which is communicating the results. There's still a feature we have to finish working on which is allowing the user to save their own recipe. Lastly, the three skills I developed were collaboration, organization, and communication. My group and I communicated our ideas to create the final product and organized ourselves to present it in the expo and class. Throughout the entire project, a lot of collaboration was required to ensure the efficiency of the product and presentations.
 
 
 [Previous](entry05.md) | [Next](entry07.md)
