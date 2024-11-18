@@ -14,6 +14,6 @@ After the in-class [presentation](https://docs.google.com/presentation/d/1fzJTYP
 Finally, we're in the last stage of the engineering design process which is communicating the results. There's still a feature we have to finish working on which is allowing the user to save their own recipe. Lastly, the three skills I developed were collaboration, organization, and communication. My group and I communicated our ideas to create the final product and organized ourselves to present it in the expo and class. Throughout the entire project, a lot of collaboration was required to ensure the efficiency of the product and presentations.
 
 
-[Previous](entry04.md) |
+[Previous](entry04.md) 
 
 [Home](../README.md)
