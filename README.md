@@ -35,4 +35,4 @@ Below you will find my blog about how I made my project.
 * [Entry 3](blog/entry03.md)
 * [Entry 4](blog/entry04.md)
 * [Entry 5](blog/entry05.md)
-* [Entry 6](blog/entry06.md)
+
