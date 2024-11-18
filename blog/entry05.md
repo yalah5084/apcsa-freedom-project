@@ -1,4 +1,4 @@
-# Entry 6
+# Entry 5
 ##### 06/08/24
 
 ### Takeaways from Expo Elevator Pitch
